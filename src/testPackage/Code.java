@@ -2,6 +2,6 @@ package testPackage;
 
 public class Code {
 	public static void main() {
-		System.out.println("Hello World"); //comment 005
+		System.out.println("Hello World"); //comment 006
 	}
 }
